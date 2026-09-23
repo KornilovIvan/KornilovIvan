@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Языки](https://github-stats-extended.vercel.app/api/top-langs/?username=KornilovIvan&layout=compact&langs_count=8)
 <!--
 **KornilovIvan/KornilovIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
